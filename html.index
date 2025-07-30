@@ -1,0 +1,91 @@
+<link rel="stylesheet" href="../css/style.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css"> <!-- CSS Link -->
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <p>I am Saba Sajid, a Web Developer</p>
+    </header>
+
+    <main>
+        <section class="about">
+            <h2>About Me</h2>
+            <p>I love to create simple and beautiful websites using HTML, CSS, and JavaScript.</p>
+        </section>
+
+        <section class="projects">
+            <h2>My Projects</h2>
+            <ul>
+                <li>Simple Calculator</li>
+                <li>Weather App</li>
+                <li>Portfolio Website</li>
+            </ul>
+        </section>
+        <section class="contact">
+    <h2>Contact Me</h2>
+    <p>Email: saba@example.com</p>
+    <p>Phone: +92-123-4567890</p>
+</section>
+
+        <button onclick="sayHello()">Click to Say Hello</button>
+    </main>
+
+    <footer>
+        <p>© 2025 Saba Sajid. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script> 
+
+</body>
+</html><link rel="stylesheet" href="../css/style.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css"> <!-- CSS Link -->
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <p>I am Saba Sajid, a Web Developer</p>
+    </header>
+
+    <main>
+        <section class="about">
+            <h2>About Me</h2>
+            <p>I love to create simple and beautiful websites using HTML, CSS, and JavaScript.</p>
+        </section>
+
+        <section class="projects">
+            <h2>My Projects</h2>
+            <ul>
+                <li>Simple Calculator</li>
+                <li>Weather App</li>
+                <li>Portfolio Website</li>
+            </ul>
+        </section>
+        <section class="contact">
+    <h2>Contact Me</h2>
+    <p>Email: saba@example.com</p>
+    <p>Phone: +92-123-4567890</p>
+</section>
+
+        <button onclick="sayHello()">Click to Say Hello</button>
+    </main>
+
+    <footer>
+        <p>© 2025 Saba Sajid. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script> 
+
+</body>
+</html>

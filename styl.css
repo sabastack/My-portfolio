@@ -1,0 +1,48 @@
+/* Portfolio Styling */
+
+body {
+    background-color: #f5f7fa;
+    color: #333;
+    font-family: 'Segoe UI', sans-serif;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #0066cc;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+section {
+    margin: 30px 0;
+}
+
+.projects ul {
+    list-style: square;
+    margin-left: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+}

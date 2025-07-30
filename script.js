@@ -1,3 +1,4 @@
-function sayHello() {
-  alert("Welcome! I'm happy to see you here.");
-}
+// A simple JavaScript message
+document.addEventListener("DOMContentLoaded", function () {
+  alert("Welcome to My Portfolio!");
+});
